@@ -1,4 +1,17 @@
-.h1{
+.header{
     color: blue;
     text-align: center;
+}
+.merge {
+    float: left;
+    width: 50%;
+}
+.rebase,.merge {
+    float: right;
+    width: 50%;
+}
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
 }
