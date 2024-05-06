@@ -1,0 +1,3 @@
+https://blog.mralx.com/git-rebase/
+https://phoenixnap.com/kb/git-rebase-vs-merge
+https://www.youtube.com/watch?v=0chZFIZLR_0&ab_channel=ByteByteGo
